@@ -1,2 +1,2 @@
-# lab3_snort-honeypot
+# nsm-snort-honeypot
 bài thực hành labtainer 3
